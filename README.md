@@ -10,5 +10,7 @@ Comments were also made to practice explaining to non-programmers. This code was
 These three sites were very helpful for making it:
 
 https://python.plainenglish.io/hungarian-algorithm-introduction-python-implementation-93e7c0890e15
+
 https://pynative.com/python-mysql-database-connection/
+
 https://en.wikipedia.org/wiki/Hungarian_algorithm
